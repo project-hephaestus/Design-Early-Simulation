@@ -1,0 +1,10 @@
+# file...... test_auction_3.csv
+# date...... Thu Feb 21 16:58:08 2013
+# user...... Antonia
+# host...... (null)
+# target.... auction 0
+# trigger... (none)
+# interval.. 3600
+# limit..... 240
+# timestamp,current_market.clearing_price,current_market.clearing_quantity,buyer_1:price,buyer_1:quantity,buyer_2:price,buyer_2:quantity,seller_1:price,seller_1:quantity,seller_2:price,seller_2:quantity
+2013-02-21 06:58:08 PST,+0,+0,+45,+3,+40,+3,+30,+2.5,+30,+2.5

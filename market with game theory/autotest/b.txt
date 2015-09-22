@@ -1,0 +1,4 @@
+--2013-02-22 11:28:42--  http://localhost:6267/clock
+Resolving localhost... 127.0.0.1, ::1
+Connecting to localhost|127.0.0.1|:6267... failed: Connection refused.
+Connecting to localhost|::1|:6267... failed: Connection refused.

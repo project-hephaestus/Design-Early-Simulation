@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<property>
+	<object>MyHouse</object>
+	<name>cooling_setpoint</name>
+	<value>+90</value>
+</property>

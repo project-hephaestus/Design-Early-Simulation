@@ -1,0 +1,26 @@
+#set server_portnum=19872
+
+module residential;
+module tape;
+
+clock {
+	
+	timestamp '2013-02-21 9:22:00';
+}
+
+module residential;
+module tape;
+
+object house {
+name 	MyHouse;
+	heating_setpoint 40degF;
+	cooling_setpoint 90degF;
+	
+	object recorder{
+		
+		property air_temperature,cooling_setpoint;
+		file theat_record.csv;
+		interval 5;
+		limit 480;
+};
+}
